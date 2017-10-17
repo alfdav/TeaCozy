@@ -66,7 +66,7 @@ header a {
   flex-direction: column;
   margin: 10px;
 }
-.monthimg {
+.month-img {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -83,7 +83,7 @@ header a {
   width: 1200px;
   background-image: url(../images/img-locations-background.jpg);
 }
-.locationdetail {
+.location-detail {
   display: flex;
   flex-basis: 280px;
   justify-content: space-between;
